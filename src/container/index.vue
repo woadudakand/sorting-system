@@ -50,7 +50,7 @@
 
       <table class="empty" v-else>
         <caption>
-          No Members, Please click on Start sorting and add members.
+          Let`s Play a game. Add the number of rows and then sort potatoes from maximum to minimum
         </caption>
       </table>
     </div>
